@@ -10,7 +10,7 @@
     border: none;
 }
 body{
-    background-image: url(/img/6dce11feac0f34426cbacd47979b6cea.jpg);
+    background-image: url(/img/fundo/6dce11feac0f34426cbacd47979b6cea.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -77,7 +77,7 @@ main{
 }
 .back{
     backface-visibility: hidden;
-    background-image: url(/img/25c1618cdb5875a82263bf02a5c6d70b.jpg);
+    background-image: url(/img/fundo/25c1618cdb5875a82263bf02a5c6d70b.jpg);
 }
 
 .ver-card {

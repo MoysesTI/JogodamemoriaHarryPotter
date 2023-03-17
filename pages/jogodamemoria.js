@@ -16,44 +16,6 @@ const personagems = [
     'grid_0 (12)',
 ]
 
-const personagemsNormal= [
-    'grid_0 (1)',
-    'grid_0 (2)',
-    'grid_0 (3)',
-    'grid_0 (4)',
-    'grid_0 (5)',
-    'grid_0 (6)',
-    'grid_0 (7)',
-    'grid_0 (8)',
-    'grid_0 (9)',
-    'grid_0 (10)',
-    'grid_0 (11)',
-    'grid_0 (12)',
-    'grid-0 (13)',
-    'grid-0 (14)',
-    'grid-0 (15)',
-]
-const personagemsDificil= [
-    'grid_0 (1)',
-    'grid_0 (2)',
-    'grid_0 (3)',
-    'grid_0 (4)',
-    'grid_0 (5)',
-    'grid_0 (6)',
-    'grid_0 (7)',
-    'grid_0 (8)',
-    'grid_0 (9)',
-    'grid_0 (10)',
-    'grid_0 (11)',
-    'grid_0 (12)',
-    'grid-0 (13)',
-    'grid-0 (14)',
-    'grid-0 (15)',
-    'grid-0 (16)',
-    'grid-0 (17)',
-    'grid-0 (18)',
-]
-
 
 
 let cardOne = ''
