@@ -77,7 +77,7 @@ main{
 }
 .back{
     backface-visibility: hidden;
-    background-image: url(/img/fundo/25c1618cdb5875a82263bf02a5c6d70b.jpg);
+    background-image: url(../img/fundo/25c1618cdb5875a82263bf02a5c6d70b.jpg);
 }
 
 .ver-card {
