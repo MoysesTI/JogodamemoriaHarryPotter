@@ -62,7 +62,6 @@ const vercard = (e) =>{
     }else if(cardTwo === ''){
         e.target.parentNode.classList.add('ver-card')
         cardTwo = e.target.parentNode
-        console.log(cardTwo)
         checkCards()
     }
 }
