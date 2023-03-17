@@ -31,7 +31,7 @@ const fimDogame = ()=>{
     if(cartasacertadas.length == 24){
         clearInterval(this.loop)
         alert('Você Finalizou o Jogo!')
-
+        window.location.href = '../index.html'
     }
 }
 const checkCards = () =>{
